@@ -1,0 +1,24 @@
+.container-img .container{
+  margin-top: 20px;
+  height: 500px;
+  background-image: url(./img/81ecded2-1eea-40d0-9722-e45ab1976100.jpg);
+  background-size: cover;
+}
+
+.ustun{
+  height:250px;
+  display: flex;
+  align-items: end;
+}
+
+.futer-img .container{
+  margin-top: 20px;
+  height: 500px;
+  background-image: url(./img/2001061644241211316.jpg.png);
+  background-size: cover; 
+}
+
+.card-3{
+  position: absolute;
+  top:20px;
+}
